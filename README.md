@@ -1,2 +1,3 @@
 # demo-nginx
-nginx with additional tools for demo show case
+nginx with additional tools for demos
+
